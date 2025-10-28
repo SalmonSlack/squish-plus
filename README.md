@@ -3,7 +3,7 @@
 ## 📄 About
 Squish+ is an SM64 Co-op Deluxe Mod that expands on the existing squish feature, making it more dynamic, more interactive, and more cartoony! Players can now find themselves squished into a variety of poses, all based on the pose they held the moment they got squashed! New sound effects, new squish physics, and new enemy interactions that will leave players flatter than ever before!
 
-If you are new to SM64 Co-op Deluxe, check out the [Setup Guide!]("") It has step-by-step instructions for getting this mod running on your computer!
+If you are new to SM64 Co-op Deluxe, check out the [Setup Guide!]("#-bug-reporting-guide") It has step-by-step instructions for getting this mod running on your computer!
 
 If you enjoyed using this mod or want to show support, sharing this or dropping me a comment on my socials to let me know what you think would mean a lot! I may try and make more things like this in the future if people like this one!
 
@@ -19,25 +19,25 @@ Finally, I want to end off this section with a big thanks to `YOU` for checking 
 7. Click the following Menu buttons: `Host -> Mods -> Squish+ -> Back -> Settings -> Skip Intro Cutscene -> Back -> Host`
 8. Once you've loaded in, click **D-Pad Down** (Down arrow by default). If Mario squishes, then you're all set!
 
-From here, I suggest [configuring your controls](""), and going to the [official modding page]("https://mods.sm64coopdx.com/mods/") to find some models to mess around with! Or you could even [make your own!]("https://github.com/coop-deluxe/character-template?tab=readme-ov-file#character-templates-for-coop-deluxe") If you enable the pre-installed `Character Select` and `[CS] Extra Characters` mods, you can select the ones you've downloaded and more with the `/char-select` command!
+From here, I suggest [configuring your controls](""), and going to the [official modding page]("https://mods.sm64coopdx.com/mods/") to find some fun character models to mess around with! Or you could even [make your own!]("https://github.com/coop-deluxe/character-template?tab=readme-ov-file#character-templates-for-coop-deluxe") If you enable the pre-installed `Character Select` and `[CS] Extra Characters` mods, you can select the ones you've downloaded and more with the in-game `/char-select` command!
 
 ## 🎮 Mod Instructions / Controls
 - `D-Pad Down` - ✨ Self Squish Button ✨ You can use this almost anytime you like! It makes for an easy means of squashing yourself to whatever surfaces you wish, whether there's an enemy around or not to do it for you!
   
-- `A Button` - ✨ Soft Restore Button ✨ This button is how you can organically recover from the `squished` state. You cannot `soft-restore` yourself if you are out of health, have been `squished` for less than 1 second, or if you are underneath a `Surface` object (Thwomp, Whomp, etc).
+- `A Button` - ✨ Soft Restore Button ✨ This button is how you can organically recover from the `squished` state. You cannot `soft restore` yourself if you are out of health, have been `squished` for less than a number of seconds, or if you are underneath a `Surface Object` (Thwomp, Whomp, etc).
   
-- `D-Pad Up` - ✨ Hard Restore Button ✨ Use this button if you ever find yourself soft-locked / unable to restore or respawn while in the `squished` state. This acts as an emergency button in case you encounter a soft-lock related to the mod 💦
+- `D-Pad Up` - ✨ Hard Restore Button ✨ Use this button if you ever find yourself soft-locked / unable to restore or respawn while in the `squished` state. This acts as an emergency button in case you encounter a soft-lock because of the mod 💦
   
 - `D-Pad Left` - ✨ Set Pose Preset ✨ This button captures your character's current animation and frame, allowing you to 'freeze' yourself in that position later if you have a particular pose you want to be squished in.
   
 - `D-Pad Right` - ✨ Set Animation to Preset ✨ Holding this button down will freeze you in whichever animation and frame you selected earlier with the **Set Pose Preset** button, making it easier to squish yourself in a particular pose whenever you like. (Default pose is spread-eagle).
 
-Feel free to use additional mods in tandem with this one! However, I suggest sticking to level mods (such as the pre-installed Star Road mod), or [character mods]("https://mods.sm64coopdx.com/mods/categories/custom-characters.4/"). I've only tested compatibility with a [small handful of behavior mods]("").
+Feel free to use additional mods in tandem with this one! However, I suggest sticking to level mods (such as the pre-installed Star Road mod), or [character mods]("https://mods.sm64coopdx.com/mods/categories/custom-characters.4/"). I've only tested compatibility with a [small handful of behavior mods]("#-bug-reporting-guide").
 
-If you're able to consistently replicate a bug, don't hesitate to [fill out a bug report]("https://docs.google.com/forms/d/e/1FAIpQLScznpjr9QTrfvurq5ktppkQWYIKzjsfdZWjz0u9a9tsZkZtcQ/viewform?usp=header") with reproduction steps, it helps me a lot! Just make sure to read the [bug reporting guide]("") first!
+If you're able to consistently replicate a bug, don't hesitate to [fill out a bug report]("https://docs.google.com/forms/d/e/1FAIpQLScznpjr9QTrfvurq5ktppkQWYIKzjsfdZWjz0u9a9tsZkZtcQ/viewform?usp=header") with reproduction steps, it helps me a lot! Just make sure to read the [bug reporting guide]("#-bug-reporting-guide") first!
 
 ## 🐛 Bug Reporting Guide
-Reporting bugs you come across helps me make this mod as enjoyable as possible! This short guide exists to explain how best to go about reporting issues you find! Before you spend time filing a report, check out the [Trello Board]("https://trello.com/b/89uM80j1/squish"), as it's possible the bug is already in the process of being fixed!
+Reporting bugs you come across helps me make this mod as enjoyable as possible! This guide exists to explain how best to go about reporting issues you find! Before you spend time filing a report, check out the [Trello Board]("https://trello.com/b/89uM80j1/squish"), as it's possible the bug is already in the process of being fixed!
 
 
 There's no 'correct' way to fill out a report, but including enough details for me to replicate the bug on my own computer is a good rule of thumb! Here are two examples of great bug reports:

@@ -3,7 +3,7 @@
 ## 📄 About
 Squish+ is an SM64 Co-op Deluxe Mod that expands on the existing squish feature, making it more dynamic, more interactive, and more cartoony! Players can now find themselves squished into a variety of poses, all based on the pose they held the moment they got squashed! New sound effects, new squish physics, and new enemy interactions that will leave players flatter than ever before!
 
-If you are new to SM64 Co-op Deluxe, check out the [Setup Guide!]("#-bug-reporting-guide") It has step-by-step instructions for getting this mod running on your computer!
+If you are new to SM64 Co-op Deluxe, check out the [Setup Guide!](#-setup-guide-windows) It has step-by-step instructions for getting this mod running on your computer!
 
 If you enjoyed using this mod or want to show support, sharing this or dropping me a comment on my socials to let me know what you think would mean a lot! I may try and make more things like this in the future if people like this one!
 
@@ -32,9 +32,9 @@ From here, I suggest [configuring your controls](""), and going to the [official
   
 - `D-Pad Right` - ✨ Set Animation to Preset ✨ Holding this button down will freeze you in whichever animation and frame you selected earlier with the **Set Pose Preset** button, making it easier to squish yourself in a particular pose whenever you like. (Default pose is spread-eagle).
 
-Feel free to use additional mods in tandem with this one! However, I suggest sticking to level mods (such as the pre-installed Star Road mod), or [character mods]("https://mods.sm64coopdx.com/mods/categories/custom-characters.4/"). I've only tested compatibility with a [small handful of behavior mods]("#-bug-reporting-guide").
+Feel free to use additional mods in tandem with this one! However, I suggest sticking to level mods (such as the pre-installed Star Road mod), or [character mods]("https://mods.sm64coopdx.com/mods/categories/custom-characters.4/"). I've only tested compatibility with a [small handful of behavior mods](#-compatible-mods).
 
-If you're able to consistently replicate a bug, don't hesitate to [fill out a bug report]("https://docs.google.com/forms/d/e/1FAIpQLScznpjr9QTrfvurq5ktppkQWYIKzjsfdZWjz0u9a9tsZkZtcQ/viewform?usp=header") with reproduction steps, it helps me a lot! Just make sure to read the [bug reporting guide]("#-bug-reporting-guide") first!
+If you're able to consistently replicate a bug, don't hesitate to [fill out a bug report]("https://docs.google.com/forms/d/e/1FAIpQLScznpjr9QTrfvurq5ktppkQWYIKzjsfdZWjz0u9a9tsZkZtcQ/viewform?usp=header") with reproduction steps, it helps me a lot! Just make sure to read the [bug reporting guide](#-bug-reporting-guide) first!
 
 ## 🐛 Bug Reporting Guide
 Reporting bugs you come across helps me make this mod as enjoyable as possible! This guide exists to explain how best to go about reporting issues you find! Before you spend time filing a report, check out the [Trello Board]("https://trello.com/b/89uM80j1/squish"), as it's possible the bug is already in the process of being fixed!

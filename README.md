@@ -1,7 +1,7 @@
-# Super Mario 64 Co-op Deluxe Squish+ Mod
+# ![Squish+ Mod Logo, credit to https://www.textstudio.com/](https://github.com/SalmonSlack/squish-plus/blob/main/Logo.png)
 
 ## 📄 About
-Squish+ is an SM64 Co-op Deluxe Mod that expands on the existing squish feature, making it more dynamic, more interactive, and more cartoony! Players can now find themselves squished into a variety of poses, all based on the pose they held the moment they got squashed! New sound effects, new squish physics, and new enemy interactions that will leave players flatter than ever before!
+Squish+ is a mod created for SM64 Co-op Deluxe! It expands on the existing squish feature in SM64, making it more dynamic, more interactive, and more cartoony! Players can now find themselves squished into a variety of poses, all based on the pose they were in the moment they got squashed! This mod adds new sound effects, new squish physics, and new enemy interactions that will leave players flatter than ever before!
 
 If you are new to SM64 Co-op Deluxe, check out the [Setup Guide!](#-setup-guide-windows) It has step-by-step instructions for getting this mod running on your computer!
 
@@ -17,7 +17,7 @@ Finally, I want to end off this section with a big thanks to `YOU` for checking 
 2. Extract the ZIP file, and run sm64coopdx.exe. It should notify you that you need an SM64 ROM
 3. Obtain a Super Mario 64 ROM (I can't legally say where to get one, but just make sure it is a .z64 file)
 4. Drag the ROM into your SM64 Co-op DX application
-5. Download [squish-plus.zip]("") by clicking the download icon towards the right of the page
+5. Download [squish-plus.zip](https://github.com/SalmonSlack/squish-plus/blob/main/squish-plus.zip) by entering `Ctrl-Shift-S` or by clicking the three dots towards the right of the page
 6. Drag the whole ZIP file into your SM64 Co-op DX application
 7. Click the following Menu buttons: `Host -> Mods -> Squish+ -> Back -> Settings -> Skip Intro Cutscene -> Back -> Host`
 8. Once you've loaded in, click **D-Pad Down** (End key by default). If Mario squishes, then you're all set!

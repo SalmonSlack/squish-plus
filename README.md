@@ -5,7 +5,7 @@ Squish+ is an SM64 Co-op Deluxe Mod that expands on the existing squish feature,
 
 If you are new to SM64 Co-op Deluxe, check out the [Setup Guide!](#-setup-guide-windows) It has step-by-step instructions for getting this mod running on your computer!
 
-If you enjoyed using this mod or want to show support, sharing this or dropping me a comment on my socials to let me know what you think would mean a lot! I may try and make more things like this in the future if people like this one!
+If you enjoyed using this mod or want to show support, sharing this or dropping me a comment on my socials to let me know what you think would mean a lot! I may expand on this mod or try and make mods like this for other games in the future if people like this one!
 
 Finally, I want to end off this section with a big thanks to `YOU` for checking out this mod! SM64 holds a special place in my heart, and getting to share this with the wonderful community I've been a part of for so many years is a wonderful feeling!
 <br/><br/>
@@ -18,7 +18,7 @@ Finally, I want to end off this section with a big thanks to `YOU` for checking 
 5. Download [squish-plus.zip]("") by clicking the download icon towards the right of the page
 6. Drag the whole ZIP file into your SM64 Co-op DX application
 7. Click the following Menu buttons: `Host -> Mods -> Squish+ -> Back -> Settings -> Skip Intro Cutscene -> Back -> Host`
-8. Once you've loaded in, click **D-Pad Down** (Down arrow by default). If Mario squishes, then you're all set!
+8. Once you've loaded in, click **D-Pad Down** (End key by default). If Mario squishes, then you're all set!
 
 From here, I suggest [configuring your controls](""), and going to the [official modding page](https://mods.sm64coopdx.com/mods/) to find some fun character models to mess around with! Or you could even [make your own!](https://github.com/coop-deluxe/character-template?tab=readme-ov-file#character-templates-for-coop-deluxe) If you enable the pre-installed `Character Select` and `[CS] Extra Characters` mods, you can select the ones you've downloaded and more with the in-game `/char-select` command!
 <br/><br/>
@@ -32,7 +32,9 @@ From here, I suggest [configuring your controls](""), and going to the [official
   
 - `D-Pad Left` - ✨ Set Pose Preset ✨ This button captures your character's current animation and frame, allowing you to 'freeze' yourself in that position later if you have a particular pose you want to be squished in.
   
-- `D-Pad Right` - ✨ Set Animation to Preset ✨ Holding this button down will freeze you in whichever animation and frame you selected earlier with the **Set Pose Preset** button, making it easier to squish yourself in a particular pose whenever you like. (Default pose is spread-eagle).
+- `D-Pad Right` - ✨ Set Animation to Preset ✨ This button will freeze you in whichever animation and frame you selected earlier with the **Set Pose Preset** button, making it easier to squish yourself in a particular pose whenever you like. (Default pose is spread-eagle).
+
+- 
 
 Feel free to use additional mods in tandem with this one! However, I suggest sticking to level mods (such as the pre-installed Star Road mod), or [character mods](https://mods.sm64coopdx.com/mods/categories/custom-characters.4/). I've only tested compatibility with a [small handful of behavior mods](#-compatible-mods).
 
@@ -41,7 +43,6 @@ If you're able to consistently replicate a bug, don't hesitate to [fill out a bu
 
 ## 🐛 Bug Reporting Guide
 Reporting bugs you come across helps me make this mod as enjoyable as possible! This guide exists to explain how best to go about reporting issues you find! Before you spend time filing a report, check out the [Trello Board](https://trello.com/b/89uM80j1/squish), as it's possible the bug is already in the process of being fixed!
-
 
 There's no 'correct' way to fill out a report, but including enough details for me to replicate the bug on my own computer is a good rule of thumb! Here are two examples of great bug reports:
 ```
@@ -82,8 +83,18 @@ If you're unsure if something qualifies as a bug or not, feel free to [submit a 
 <br/><br/>
 
 ## ✨ What's New
-### 1.0 (10/30/2025)
+### v1.0 - (11/01/2025)
 - 🎊 Official Release! 🎊
 <br/><br/>
 
-## 🧩 Compatible Mods
+## 🧩 Mod Compatibility
+I'll add onto this list as I do more testing, but for now, assume any character mods and level packs are compatible, and any behavior altering mods `not` listed here are incompatible!
+
+### ✅ Compatible Mods
+- [Noclip](https://mods.sm64coopdx.com/mods/noclip.30/)
+
+### ⚠️ Semi-Compatible Mods
+- [King's DevTools](https://mods.sm64coopdx.com/mods/kings-devtools.339/): Default button mappings interfere with
+- [Free Camera](https://mods.sm64coopdx.com/mods/freecamera.457/): Pressing 'A' while in Freecam mode restores the player, I recommend navigating the freecam with movement and camera rotation controls only
+
+### ❌ Incompatible Mods

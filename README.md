@@ -1,7 +1,7 @@
 # ![Squish+ Mod Logo, credit to https://www.textstudio.com/](https://github.com/SalmonSlack/squish-plus/blob/main/Logo.png)
 
 ## 📄 About
-Squish+ is a mod created for SM64 Co-op Deluxe! It expands on the existing squish feature in SM64, making it more dynamic, more interactive, and more cartoony! Players can now find themselves squished into a variety of poses, all based on the pose they were in the moment they got squashed! This mod adds new sound effects, new squish physics, and new enemy interactions that will leave players flatter than ever before!
+Squish+ is a mod created for SM64 Co-op Deluxe! It expands on the existing squish feature in SM64, making it more dynamic, more interactive, and more cartoony! Players can now find themselves squished into a variety of poses, all based on the pose they were in the moment they got squashed! This mod adds new sound effects, new squish physics, and new enemy interactions that will leave players flatter than ever before! Check out the [trailer](https://drive.google.com/file/d/1Zh6yISxlmxnd6XwUKODs0lXvTOFLVoE-/view?usp=sharing) if you haven't already seen it!
 
 If you are new to SM64 Co-op Deluxe, check out the [Setup Guide!](#-setup-guide-windows) It has step-by-step instructions for getting this mod running on your computer!
 

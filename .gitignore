@@ -39,3 +39,9 @@ luac.out
 *.x86_64
 *.hex
 
+# Files
+.vscode
+sound
+squish-plus
+main.lua
+util.lua

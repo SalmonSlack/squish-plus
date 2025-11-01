@@ -16,9 +16,9 @@ Finally, I want to end off this section with a big thanks to `YOU` for checking 
 1. Download SM64 Co-op DX by clicking the green `Code` button on [the team's official GitHub page](https://github.com/coop-deluxe/sm64coopdx), then click `Download ZIP`
 2. Extract the ZIP file, and run sm64coopdx.exe. It should notify you that you need an SM64 ROM
 3. Obtain a Super Mario 64 ROM (I can't legally say where to get one, but just make sure it is a .z64 file)
-4. Drag the ROM into your SM64 Co-op DX application
-5. Download [squish-plus.zip](https://github.com/SalmonSlack/squish-plus/blob/main/squish-plus.zip) by entering `Ctrl-Shift-S` or by clicking the three dots towards the right of the page
-6. Drag the whole ZIP file into your SM64 Co-op DX application
+4. Drag the ROM directly into your SM64 Co-op DX game window
+5. Download `squish-plus.zip` from [this page](https://github.com/SalmonSlack/squish-plus/blob/main/squish-plus.zip) by entering `Ctrl-Shift-S` or by clicking the three dots towards the right of the page
+6. Drag the whole ZIP file directly into your SM64 Co-op DX game window
 7. Click the following Menu buttons: `Host -> Mods -> Squish+ -> Back -> Settings -> Skip Intro Cutscene -> Back -> Host`
 8. Once you've loaded in, click **D-Pad Down** (End key by default). If Mario squishes, then you're all set!
 
@@ -44,7 +44,7 @@ If you're able to consistently replicate a bug, don't hesitate to [fill out a bu
 <br/><br/>
 
 ## 🐛 Bug Reporting Guide
-Reporting bugs you come across helps me make this mod as enjoyable as possible! This guide exists to explain how best to go about reporting issues you find! Before you spend time filing a report, check out the [Trello Board](https://trello.com/b/89uM80j1/squish), as it's possible the bug is already in the process of being fixed!
+[Reporting bugs](https://docs.google.com/forms/d/e/1FAIpQLScznpjr9QTrfvurq5ktppkQWYIKzjsfdZWjz0u9a9tsZkZtcQ/viewform?usp=header) you come across helps me make this mod as enjoyable as possible! This guide exists to explain how best to go about reporting issues you find! Before you spend time filing a report, check out the [Trello Board](https://trello.com/b/89uM80j1/squish), as it's possible the bug is already in the process of being fixed!
 
 There's no 'correct' way to fill out a report, but including enough details for me to replicate the bug on my own computer is a good rule of thumb! Here are two examples of great bug reports:
 ```

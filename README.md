@@ -96,7 +96,7 @@ I'll add onto this list as I do more testing, but for now, assume any character 
 - [Noclip](https://mods.sm64coopdx.com/mods/noclip.30/)
 
 ### ⚠️ Semi-Compatible Mods
-- [King's DevTools](https://mods.sm64coopdx.com/mods/kings-devtools.339/): Default button mappings interfere with
-- [Free Camera](https://mods.sm64coopdx.com/mods/freecamera.457/): Pressing 'A' while in Freecam mode restores the player, I recommend navigating the freecam with movement and camera rotation controls only
+- [King's DevTools](https://mods.sm64coopdx.com/mods/kings-devtools.339/): Default button mappings use the D-Pad, which causes the actions from `Squish+` and `DevTools` to happen at the same time. (e.g. `D-Pad Down` squishes you AND opens the map select menu)
+- [Free Camera](https://mods.sm64coopdx.com/mods/freecamera.457/): Pressing 'A' while in Freecam mode restores the player, I recommend navigating the freecam with movement and camera rotation controls instead
 
 ### ❌ Incompatible Mods

@@ -85,6 +85,9 @@ If you're unsure if something qualifies as a bug or not, feel free to [submit a 
 <br/><br/>
 
 ## ✨ What's New
+### v1.01 - (11/02/2025)
+- Replaced `Custom Sound Effects` toggle with a `Custom Sound Volume` slider!
+
 ### v1.0 - (11/01/2025)
 - 🎊 Official Release! 🎊
 <br/><br/>

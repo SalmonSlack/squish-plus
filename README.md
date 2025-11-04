@@ -105,7 +105,7 @@ If you're unsure if something qualifies as a bug or not, feel free to [submit a 
 - 🎊 Official Release! 🎊
 <br/><br/>
 
-## ↩️ Reverting
+## 🕑 Reverting
 If you find yourself wanting to return to an old version of the mod, you can follow these steps to get the old version back on your system!
 1. Navigate to `squish-plus.zip` [history page](https://github.com/SalmonSlack/squish-plus/commits/main/squish-plus.zip)
 2. Click on one of the titles, this should take you to a new page

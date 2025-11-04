@@ -13,7 +13,7 @@ Finally, I want to end off this section with a big thanks to `YOU` for checking 
 <br/><br/>
 
 ## 🛠️ Setup Guide (Windows)
-1. Download SM64 Co-op DX by clicking the green `Code` button on [the team's official GitHub page](https://github.com/coop-deluxe/sm64coopdx), then click `Download ZIP`
+1. Download SM64 Co-op DX by clicking the green `Code` button on [the team's official GitHub page](https://github.com/coop-deluxe/sm64coopdx/releases/tag/v1.3.2), then click `Download ZIP`
 2. Extract the ZIP file, and run sm64coopdx.exe. It should notify you that you need an SM64 ROM
 3. Obtain a Super Mario 64 ROM (I can't legally say where to get one, but just make sure it is a .z64 file)
 4. Drag the ROM directly into your SM64 Co-op DX game window

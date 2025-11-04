@@ -85,6 +85,10 @@ If you're unsure if something qualifies as a bug or not, feel free to [submit a 
 <br/><br/>
 
 ## ✨ What's New
+### v1.02.1 - (11/04/2025)
+- Fixed a bug that prevented players from restoring when squished by a moving surface
+<br/>
+
 ### v1.02 - (11/03/2025)
 - Fixed some issues with the `Minimum Squish Duration` variable, making how long players must wait before restoration more consistent!
 - Added `Enable Smearing Effect` toggle to the mod menu. This is a local variable to let players to turn on/off the lighting effects that occur when you get spread! 

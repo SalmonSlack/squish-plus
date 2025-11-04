@@ -36,9 +36,9 @@ From here, I suggest configuring your controls, and going to the [official moddi
   
 - `D-Pad Right` - ✨ Toggle Preset Pose On/Off ✨ This button will toggle "Pose Mode," a mode that will lock your character in whichever animation and frame you selected earlier with the **Set Pose Preset** button. This is a way for you to more easily squish yourself in whichever pose you like! I'd like to expand on this feature in the future to make it easier to select the exact animation, frame, and angle you want to be squished in as well.
 
-- `Squish+ Mod Menu` - ✨ Modify Your Squishing Experience ✨ From the SM64 DX pause menu (Accessed with Pause -> Right-Bumper), you'll see a button labelled either `Squish+` or `Mod Menu`. Entering this menu will give you access to some customization options for the mod! Including how flat you want your character to be, which expressions you want to see while flattened, and how likely you are to stick to the surface object that squished you (For example, a Thwomp!)
+- `Squish+ Mod Menu` - ✨ Modify Your Squishing Experience ✨ From the SM64 DX pause menu (Accessed with Pause -> Right-Bumper), you'll see a button labelled either `Squish+` or `Mod Menu`. Entering this menu will give you access to a bunch of customization options for the mod!
 
-Feel free to use additional mods in tandem with this one! However, I suggest sticking to level mods (such as the pre-installed Star Road mod), or [character mods](https://mods.sm64coopdx.com/mods/categories/custom-characters.4/). I've only tested compatibility with a [small handful of behavior mods](#-compatible-mods).
+Feel free to use additional mods in tandem with this one! However, I suggest sticking to level mods (such as the pre-installed Star Road mod), or [character mods](https://mods.sm64coopdx.com/mods/categories/custom-characters.4/) for the smoothest experience! I've only tested compatibility with a [small handful of behavior mods](#-compatible-mods).
 
 If you're able to consistently replicate a bug, don't hesitate to [fill out a bug report](https://docs.google.com/forms/d/e/1FAIpQLScznpjr9QTrfvurq5ktppkQWYIKzjsfdZWjz0u9a9tsZkZtcQ/viewform?usp=header) with reproduction steps, it helps me a lot! Just make sure to read the [bug reporting guide](#-bug-reporting-guide) first!
 <br/><br/>
@@ -104,6 +104,16 @@ If you're unsure if something qualifies as a bug or not, feel free to [submit a 
 ### v1.0 - (11/01/2025)
 - 🎊 Official Release! 🎊
 <br/><br/>
+
+## ↩️ Reverting
+If you find yourself wanting to return to an old version of the mod, you can follow these steps to get the old version back on your system!
+1. Navigate to `squish-plus.zip` [history page](https://github.com/SalmonSlack/squish-plus/commits/main/squish-plus.zip)
+2. Click on one of the titles, this should take you to a new page
+3. Click the three dots towards the right of the page, and click `View File`
+4. Enter `Ctrl-Shift-S` or click the three dots towards the right of the page and click `Download`
+5. Open SM64 Co-op Deluxe
+6. Drag the `squish-plus.zip` file directly into your game window
+7. This should automatically update your mod to the version you just downloaded!
 
 ## 🧩 Mod Compatibility
 I'll add onto this list as I do more testing, but for now, assume any character mods and level packs are compatible, and any behavior altering mods `not` listed here are semi-incompatible or incompatible!

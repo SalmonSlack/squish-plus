@@ -85,21 +85,35 @@ If you're unsure if something qualifies as a bug or not, feel free to [submit a 
 <br/><br/>
 
 ## ✨ What's New
+### v1.02 - (11/03/2025)
+- Fixed some issues with the `Minimum Squish Duration` variable, making how long players must wait before restoration more consistent!
+- Added `Enable Smearing Effect` toggle to the mod menu. This is a local variable to let players to turn on/off the lighting effects that occur when you get spread! 
+- Added new options the host can access that apply to the whole server!
+  - `Squish Damage` - This affects the base damage enemies will deal on squish. Ranges from 0 - 8, with 8 being a one-shot KO! 'Heavier' enemies like King Whomp have a damage multiplier behind the scenes, so keep that in mind! Default value is `2 Damage`
+  - `PvP Squish Damage` - This affects how much damage a player will deal to another player when they ground pound them! Ranges from 0 - 8, with a default value of `0 Damage`
+  - `Enable D-Pad Actions` - This toggles the ability for players to use the `Squish Self`, `Set Preset`, and `Toggle Preset Mode` buttons! Default value is `TRUE`
+  - `Minimum Squish Duration` - This value indicates how long players must remain flat for before being able to restore. Keep in mind that higher values can effectively stun-lock you with certain enemies, and this number does not apply to surface objects like `Thwomps` to help avoid true stun-locks. Default value is `1 Second`
+  - `Enable Auto Restore` - This toggle automatically restores a player as soon as they hit their `Minimum Squish Duration`. Default value is `FALSE`
+  - `Invincibility Timer` - This value determines how long a player stays immune to damage once they restore. (Surface Objects can still squish you while invincibile!) Values range from 0.0 to 3.0 seconds incrementing by 0.5, with a default value of `1 Second`
+<br/>
+
 ### v1.01 - (11/02/2025)
 - Replaced `Custom Sound Effects` toggle with a `Custom Sound Volume` slider!
+<br/>
 
 ### v1.0 - (11/01/2025)
 - 🎊 Official Release! 🎊
 <br/><br/>
 
 ## 🧩 Mod Compatibility
-I'll add onto this list as I do more testing, but for now, assume any character mods and level packs are compatible, and any behavior altering mods `not` listed here are incompatible!
+I'll add onto this list as I do more testing, but for now, assume any character mods and level packs are compatible, and any behavior altering mods `not` listed here are semi-incompatible or incompatible!
 
 ### ✅ Compatible Mods
 - [Noclip](https://mods.sm64coopdx.com/mods/noclip.30/)
+- [King's DevTools](https://mods.sm64coopdx.com/mods/kings-devtools.339/): Default button mappings use the D-Pad, which causes the actions from `Squish+` and `DevTools` to happen at the same time. (e.g. `D-Pad Down` squishes you AND opens the map select menu) This can be fixed by having the server host disable the `D-Pad Actions` mod option.
 
 ### ⚠️ Semi-Compatible Mods
-- [King's DevTools](https://mods.sm64coopdx.com/mods/kings-devtools.339/): Default button mappings use the D-Pad, which causes the actions from `Squish+` and `DevTools` to happen at the same time. (e.g. `D-Pad Down` squishes you AND opens the map select menu)
 - [Free Camera](https://mods.sm64coopdx.com/mods/freecamera.457/): Pressing 'A' while in Freecam mode restores the player, I recommend navigating the freecam with movement and camera rotation controls instead
+- Arena: Lots of issues and unexpected behaviors when interacting with this mode, however the host options hopefully help offset some of the glaring problems! I would like to explore the possibility of making this mode more compatible with Squish+ in future updates!
 
 ### ❌ Incompatible Mods

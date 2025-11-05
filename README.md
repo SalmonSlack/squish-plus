@@ -85,6 +85,10 @@ If you're unsure if something qualifies as a bug or not, feel free to [submit a 
 <br/><br/>
 
 ## ✨ What's New
+### v1.03.1
+- Removed an unused variable that was causing errors
+<br/>
+
 ### v1.03
 11/04/2025
 - Landing on players from a high height (or with a metal cap) will now squish the player you land on! Careful not to land on other players from TOO high up though...

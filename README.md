@@ -85,6 +85,13 @@ If you're unsure if something qualifies as a bug or not, feel free to [submit a 
 <br/><br/>
 
 ## ✨ What's New
+### v1.03
+11/04/2025
+- Landing on players from a high height (or with a metal cap) will now squish the player you land on! Careful not to land on other players from TOO high up though...
+- The [FreeCamera](https://mods.sm64coopdx.com/mods/freecamera.457/) Mod is now compatible with Squish+!
+- Fixed a couple of Thwomp specific bugs
+<br/>
+
 ### v1.02.1 - (11/04/2025)
 - Fixed a bug that prevented players from restoring when squished by a moving surface
 <br/>
@@ -123,11 +130,11 @@ If you find yourself wanting to return to an old version of the mod, you can fol
 I'll add onto this list as I do more testing, but for now, assume any character mods and level packs are compatible, and any behavior altering mods `not` listed here are semi-incompatible or incompatible!
 
 ### ✅ Compatible Mods
+- [Free Camera](https://mods.sm64coopdx.com/mods/freecamera.457/): I recommend adding this mod to your game in case you ever want to capture a specific angle you can't otherwise get with the vanilla camera!
 - [Noclip](https://mods.sm64coopdx.com/mods/noclip.30/)
 - [King's DevTools](https://mods.sm64coopdx.com/mods/kings-devtools.339/): Default button mappings use the D-Pad, which causes the actions from `Squish+` and `DevTools` to happen at the same time. (e.g. `D-Pad Down` squishes you AND opens the map select menu) This can be fixed by having the server host disable the `D-Pad Actions` mod option.
 
 ### ⚠️ Semi-Compatible Mods
-- [Free Camera](https://mods.sm64coopdx.com/mods/freecamera.457/): Pressing 'A' while in Freecam mode restores the player, I recommend navigating the freecam with movement and camera rotation controls instead
 - Arena: Lots of issues and unexpected behaviors when interacting with this mode, however the host options hopefully help offset some of the glaring problems! I would like to explore the possibility of making this mode more compatible with Squish+ in future updates!
 
 ### ❌ Incompatible Mods

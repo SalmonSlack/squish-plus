@@ -85,8 +85,13 @@ If you're unsure if something qualifies as a bug or not, feel free to [submit a 
 <br/><br/>
 
 ## ✨ What's New
+### v1.04.1
+<sup>11/06/2025</sup>
+- The pretty major bug of randomly teleporting to different surfaces should mostly be a thing of the past! You can now squish easy knowing you won't be shot across the map! The issue was most prominent when you squished from a high height or got run over by an object while near the 'seam' between two surfaces!
+-  Attempting to set a pose-preset while 'Smearing Effects' are turned off should no longer mess with the characters light and shading values outside of the initial blink effect!
+
 ### v1.04
-<sup>11/05/2025</sup>
+<sup>11/06/2025</sup>
 - New Squish Interactions!
   - Koopa the Quick can now run you over and land on top of you
   - Racing Penguin can now slide over you

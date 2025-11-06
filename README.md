@@ -36,7 +36,7 @@ From here, I suggest configuring your controls, and going to the [official moddi
   
 - `D-Pad Right` - ✨ Toggle Preset Pose On/Off ✨ This button will toggle "Pose Mode," a mode that will lock your character in whichever animation and frame you selected earlier with the **Set Pose Preset** button. This is a way for you to more easily squish yourself in whichever pose you like! I'd like to expand on this feature in the future to make it easier to select the exact animation, frame, and angle you want to be squished in as well.
 
-- `Squish+ Mod Menu` - ✨ Modify Your Squishing Experience ✨ From the SM64 DX pause menu (Accessed with Pause -> Right-Bumper), you'll see a button labelled either `Squish+` or `Mod Menu`. Entering this menu will give you access to a bunch of customization options for the mod!
+- `Squish+ Mod Menu` - ✨ Modify Your Squishing Experience ✨ From the SM64 DX pause menu (Accessed with Pause -> Right-Bumper, Defaults are Spacebar -> Right Shift), you'll see a button labelled either `Squish+` or `Mod Menu`. Entering this menu will give you access to a bunch of customization options for the mod!
 
 Feel free to use additional mods in tandem with this one! However, I suggest sticking to level mods (such as the pre-installed Star Road mod), or [character mods](https://mods.sm64coopdx.com/mods/categories/custom-characters.4/) for the smoothest experience! I've only tested compatibility with a [small handful of behavior mods](#-compatible-mods).
 
@@ -85,6 +85,28 @@ If you're unsure if something qualifies as a bug or not, feel free to [submit a 
 <br/><br/>
 
 ## ✨ What's New
+### v1.04
+<sup>11/05/2025</sup>
+- New Squish Interactions!
+  - Koopa the Quick can now run you over and land on top of you
+  - Racing Penguin can now slide over you
+  - Landing on another player with the bouncing box squishes them
+ With these new interactions, it has become increasingly important to address the bug where players jump to a seemingly random part of the terrain when getting squished, so pending any new bugs from this update, that'll be my main focus from a bug-fixing standpoint!
+
+- Your mod settings can now be saved across play sessions with the use of 'Profiles!' It's admittedly a bit clunky due to current limitations with modding SM64 Co-op DX, but I hope it gets the job done!
+  1. Open the `Squish+ Mod Menu` and adjust all the sliders to your preferred settings
+  2. Scroll over to the last page
+  3. Enter a `Profile Name` and hit `Save Profile`
+  4. Next time you host or join a game with Squish+ enabled, the settings should automatically be applied!
+
+You can also create as many profiles as you'd like! To do this, follow the same steps as above, only this time, make sure to name the profile something different! You can switch between profiles by pressing the `Switch Profile` button, just keep an eye out on the bottom left of your screen to make sure you're selecting the right one! Unfortunately, it doesn't seem possible to do a live update of the `Profile Name` and all the values when you press the `Switch Profile` button, so for now I suggest closing and backing out of the menu and re-opening it before you edit the profile you switch to!
+
+The `Delete ALL Profiles` button exists as a failsafe in case you're unable to delete a profile! Let me know if you encounter any issues with the normal `Delete Profile` button. I'll ultimately remove this global delete once I feel confident we don't need a failsafe!
+
+And thank you for all the support around this mod! It's really been so much fun getting to work on this and share it with people! 🧡
+  
+<br/>
+
 ### v1.03.1
 - Removed an unused variable that was causing errors
 <br/>

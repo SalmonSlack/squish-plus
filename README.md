@@ -85,6 +85,17 @@ If you're unsure if something qualifies as a bug or not, feel free to [submit a 
 <br/><br/>
 
 ## ✨ What's New
+### v1.05
+<sup>11/08/2025</sup>
+- Sound Effect Updates!
+  - Added 4 New Recovery Sounds, and 1 New Squish Sound, courtesy of [Epic Umbreon!](https://bsky.app/profile/epicflatbreon.bsky.social)
+  - Players can now add their own sounds! To put your own custom sounds into the mod, do the following steps once you've downloaded the [latest version of squish-plus](https://github.com/SalmonSlack/squish-plus/blob/main/squish-plus.zip):
+    - Un-zip `squish-plus.zip` and open the `Sounds` folder
+    - Add or remove files to your liking, just make sure they are `.ogg` or `.mp3` files, and make sure they follow the restore_`NUMBER` or splat_`NUMBER` format! (You can have up to 10 restore sounds and 10 splat sounds, numbered 0 - 9! If people want more sound capacity I can add that later!)
+    - Re-zip `squish-plus.zip` and drag it directly into your game window, and the mod should now pull from the sounds you've added!
+
+Aside from new sounds, I've been digging deeper into a couple of tickets to see if certain ideas are feasible or if certain bugs can be fixed, namely these two: [Leave Behind Models on Respawn](https://trello.com/c/adJATcTD/34-dark-souls-style-mode-w-flat-models-left-behind-on-respawn) and [Custom Pose Squishing](https://trello.com/c/ygkXN3yz/12-custom-character-animations-default-to-standard-mario-animations-while-squished-and-during-pose-setting). I'd like to dive deeper into the former ticket a bit more in the coming weeks, but for now I want to prioritize stuff like [Wall Squishes](https://trello.com/c/qD6Ifm2k/3-wall-squishes) and [Additional Interactions](https://trello.com/c/6nEiqn53/4-additional-squish-interactions-w-world-objects-and-players), so keep your eyes peeled for those!
+
 ### v1.04.1
 <sup>11/06/2025</sup>
 - The pretty major bug of randomly teleporting to different surfaces should mostly be a thing of the past! You can now squish easy knowing you won't be shot across the map! The issue was most prominent when you squished from a high height or got run over by an object while near the 'seam' between two surfaces!

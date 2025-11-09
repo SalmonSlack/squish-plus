@@ -88,7 +88,8 @@ If you're unsure if something qualifies as a bug or not, feel free to [submit a 
 ### v1.05
 <sup>11/08/2025</sup>
 - Sound Effect Updates!
-  - Added 4 New Recovery Sounds, and 1 New Squish Sound, courtesy of [Epic Umbreon!](https://bsky.app/profile/epicflatbreon.bsky.social)
+  - Added 4 New Recovery Sounds, and 1 New Squish Sound, courtesy of [Epic Umbreon](https://bsky.app/profile/epicflatbreon.bsky.social)!
+  - Adjusted levels on all the sounds so they should be roughly the same volume now!
   - Players can now add their own sounds! To put your own custom sounds into the mod, do the following steps once you've downloaded the [latest version of squish-plus](https://github.com/SalmonSlack/squish-plus/blob/main/squish-plus.zip):
     - Un-zip `squish-plus.zip` and open the `Sounds` folder
     - Add or remove files to your liking, just make sure they are `.ogg` or `.mp3` files, and make sure they follow the restore_`NUMBER` or splat_`NUMBER` format! (You can have up to 10 restore sounds and 10 splat sounds, numbered 0 - 9! If people want more sound capacity I can add that later!)

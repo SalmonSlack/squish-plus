@@ -85,6 +85,16 @@ If you're unsure if something qualifies as a bug or not, feel free to [submit a 
 <br/><br/>
 
 ## ✨ What's New
+### v1.06
+<sup>11/10/2025</sup>
+- 🎊 Wall Squishes! 🎊 Players can now get squished into walls under a select few conditions! Squishing from flying into a wall with the Wing Cap will be added soon! Let me know what other Wall Squishes you'd like to see!
+  - Shooting yourself from a cannon into a wall or a ceiling will now squish you to the surface!
+  - Hitting your friends with enough force into a wall or a ceiling can squish them! I suggest enabling `Too Much` knockback in the server settings to see this in full effect!
+- Can now use the Animation Set and Animation Pose feature on Custom Animations! This should cover all non-model-changing animations! Examples include Bowser's fire breath animation, Character Select Princess animations, and dancing mods such as the [Gangnam Style Mod](https://mods.sm64coopdx.com/mods/l-button-to-gangnam-style.865/)! I hope you'll enjoy the new possible squish poses this opens up!
+
+The wall squishes bring on a whole new dimension to being squished, but with that comes a couple of bugs! Including shooting yourself out of a cannon onto a rotating object causing your rotation to flip the wrong way, and getting squished to a ceiling sometimes latching you onto the wrong surface! As always, feel free to let me know if you encounter anything and I'll try and get it patched as soon as possible!
+<br/>
+
 ### v1.05
 <sup>11/08/2025</sup>
 - Sound Effect Updates!

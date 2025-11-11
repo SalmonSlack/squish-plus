@@ -85,6 +85,11 @@ If you're unsure if something qualifies as a bug or not, feel free to [submit a 
 <br/><br/>
 
 ## ✨ What's New
+### v1.06.2
+<sup>11/10/2025</sup>
+- Fixed bug where players couldn't spread while stuck to walls!
+- Fixed mod version number!
+
 ### v1.06
 <sup>11/10/2025</sup>
 - 🎊 Wall Squishes! 🎊 Players can now get squished into walls under a select few conditions! Squishing from flying into a wall with the Wing Cap will be added soon! Let me know what other Wall Squishes you'd like to see!

@@ -87,6 +87,7 @@ If you're unsure if something qualifies as a bug or not, feel free to [submit a 
 ## ✨ What's New
 ### v1.07
 <sup>11/16/2025</sup>
+
 With this update comes a new feature, quality of life changes, and optimizations to the code! I strongly suggest that you **switch the Interpolation Settings under `Options -> Display` to `Fast` if it isn't already!** This fixes the rubberbanding issue that occurs when getting squished or restoring!
 - 🎊 New Restore Animation! 🎊 Players will now spring back into shape in a much more cartoony and satisfying way upon restoring! Players can modify this setting in the Squish+ menu under "Restore Animation Duration". Values range from 0 (default SM64 restore animation) to 1 (more drawn out version of the custom animation), with 0.75 being the default value. Be sure to mess with this value and see which you like the most!
 - Players now compress all the way down before they actually enter the squished state! Prior to this, players would jump from about 30% height down to about 0.5% height very quickly, causing a weird looking squish visual!

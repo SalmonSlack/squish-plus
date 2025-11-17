@@ -85,6 +85,11 @@ If you're unsure if something qualifies as a bug or not, feel free to [submit a 
 <br/><br/>
 
 ## ✨ What's New
+### v1.07.1
+<sup>11/17/2025</sup>
+- Fixed a bug where players could splat when falling from high heights on Koopa Shells and while using Crazy Boxes
+- Fixed a bug where players sometimes wouldn't get squished in their pose-preset pose
+
 ### v1.07
 <sup>11/16/2025</sup>
 

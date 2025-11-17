@@ -22,7 +22,7 @@ Finally, I want to end off this section with a big thanks to `YOU` for checking 
 7. Click the following Menu buttons: `Host -> Mods -> Squish+ -> Back -> Settings -> Skip Intro Cutscene -> Back -> Host`
 8. Once you've loaded in, click **D-Pad Down** (End key by default). If Mario squishes, then you're all set!
 
-From here, I suggest configuring your controls, and going to the [official modding page](https://mods.sm64coopdx.com/mods/) to find some fun [character models](https://mods.sm64coopdx.com/mods/categories/custom-characters.4/) to mess around with! Or you could even [make your own!](https://github.com/coop-deluxe/character-template?tab=readme-ov-file#character-templates-for-coop-deluxe) If you enable the pre-installed `Character Select` and `[CS] Extra Characters` mods, you can select the ones you've downloaded and more with the in-game `/char-select` command!
+Once you verify the mod is working, I recommend setting `Interpolation` to `Fast` by returning to the main menu and clicking `Options -> Display -> Interpolation.` This fixes a lot of visual bugs! From there, I suggest configuring your controls, and going to the [official modding page](https://mods.sm64coopdx.com/mods/) to find some fun [character models](https://mods.sm64coopdx.com/mods/categories/custom-characters.4/) to mess around with! Or you could even [make your own!](https://github.com/coop-deluxe/character-template?tab=readme-ov-file#character-templates-for-coop-deluxe) If you enable the pre-installed `Character Select` and `[CS] Extra Characters` mods, you can select the ones you've downloaded and more with the in-game `/char-select` command accessed by hitting the `Enter` key!
 <br/><br/>
 
 ## 🎮 Mod Instructions / Controls
@@ -85,6 +85,16 @@ If you're unsure if something qualifies as a bug or not, feel free to [submit a 
 <br/><br/>
 
 ## ✨ What's New
+### v1.07
+<sup>11/16/2025</sup>
+With this update comes a new feature, quality of life changes, and optimizations to the code! I strongly suggest that you **switch the Interpolation Settings under `Options -> Display` to `Fast` if it isn't already!** This fixes the rubberbanding issue that occurs when getting squished or restoring!
+- 🎊 New Restore Animation! 🎊 Players will now spring back into shape in a much more cartoony and satisfying way upon restoring! Players can modify this setting in the Squish+ menu under "Restore Animation Duration". Values range from 0 (default SM64 restore animation) to 1 (more drawn out version of the custom animation), with 0.75 being the default value. Be sure to mess with this value and see which you like the most!
+- Players now compress all the way down before they actually enter the squished state! Prior to this, players would jump from about 30% height down to about 0.5% height very quickly, causing a weird looking squish visual!
+- Adjusted conditions required to be squished by an interactable object: The player must now be close to the ground to get squished, and the object must get close to colliding with the ground to spread the player!
+- Giant Goombas can now squish the player!
+- Bug Fixes, including issues with connecting / disconnecting from a lobby, players getting stuck in the ceiling when squishing into it, a Grindel themed soft lock, and errors that players would sometimes see when loading into a server!
+
+
 ### v1.06.2
 <sup>11/10/2025</sup>
 - Fixed bug where players couldn't spread while stuck to walls!

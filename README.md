@@ -88,7 +88,7 @@ If you're unsure if something qualifies as a bug or not, feel free to [submit a 
 ### v1.08
 <sup>11/21/2025</sup>
 - 🥞 Enemy Squishes! 🥞 Certain enemies can now be squished to the ground, and will remain there until all players exit the level! Goombas, Koopas, Boos, Flyguys, Swoops (Bats), Spindrifts, and Moneybags can all be left flatter than ever before with a Jump, Belly-slide, or Ground Pound! (Boos require a ground pound to get squished!)
-- 🎲 Random Pose Setting 🎲 The menu has a new option! 'Random Pose Chance!' This setting is a percentage from 0 - 100% (0 by default) that your character will enter a random animation and frame when squished! Note, this is picking 1 of 208 animation options in the game, so the pose can range from something SUPER fun to something kind of stupid looking!
+- 🎲 Random Pose Setting 🎲 The menu has a new option! 'Random Pose Chance!' This setting is a percentage from 0 - 100% (0 by default) that your character will enter a random animation and frame when squished! Note, this is picking 1 of 208 animation options in the game, so the pose can range from something SUPER fun to something kind of stupid looking! Idea courtesy of Milchar!
 
 Additionally, there are some adjustments and bug fixes in this update:
 - Reduced the speed requirement to get squished from bonking into a wall. Was a combined horizontal velocity of 60, now the required velocity is 40, which should make squishing yourself to walls easier!

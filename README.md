@@ -85,6 +85,19 @@ If you're unsure if something qualifies as a bug or not, feel free to [submit a 
 <br/><br/>
 
 ## ✨ What's New
+### v1.08
+<sup>11/21/2025</sup>
+- 🥞 Enemy Squishes! 🥞 Certain enemies can now be squished to the ground, and will remain there until all players exit the level! Goombas, Koopas, Boos, Flyguys, Swoops (Bats), Spindrifts, and Moneybags can all be left flatter than ever before with a Jump, Belly-slide, or Ground Pound! (Boos require a ground pound to get squished!)
+- 🎲 Random Pose Setting 🎲 The menu has a new option! 'Random Pose Chance!' This setting is a percentage from 0 - 100% (0 by default) that your character will enter a random animation and frame when squished! Note, this is picking 1 of 208 animation options in the game, so the pose can range from something SUPER fun to something kind of stupid looking!
+
+Additionally, there are some adjustments and bug fixes in this update:
+- Reduced the speed requirement to get squished from bonking into a wall. Was a combined horizontal velocity of 60, now the required velocity is 40, which should make squishing yourself to walls easier!
+- Being mid-squish should no longer make your model jut out aggressively when you un-squish
+- Your player model should now spread outwards in addition to downwards as objects compress you, making the transition from 3D to 2D more true to vanilla SM64!
+- Pressing the squish-self button while mid-squish no longer causes the player to glitch into the surface
+- Dying while squished should be more consistent and will now work when Bubble Mode is off (This makes Manhunt more viable as a Squish+ gamemode as well!)
+- Made adjustments to the 'is squishing' / 'mid squish' state that should hopefully tighten up some inconsistencies. I wasn't able to replicate a known bug to verify if this fixed it or not, so if you run into any issues where your character is partially squished and unable to pop back to normal, do let me know!
+
 ### v1.07.2
 <sup>11/18/2025</sup>
 - Fixed a bug where players couldn't auto-restore
@@ -214,6 +227,7 @@ I'll add onto this list as I do more testing, but for now, assume any character 
 - [King's DevTools](https://mods.sm64coopdx.com/mods/kings-devtools.339/): Default button mappings use the D-Pad, which causes the actions from `Squish+` and `DevTools` to happen at the same time. (e.g. `D-Pad Down` squishes you AND opens the map select menu) This can be fixed by having the server host disable the `D-Pad Actions` mod option.
 
 ### ⚠️ Semi-Compatible Mods
-- Arena: Lots of issues and unexpected behaviors when interacting with this mode, however the host options hopefully help offset some of the glaring problems! I would like to explore the possibility of making this mode more compatible with Squish+ in future updates!
+- Arena (Comes built into Coop Deluxe): Lots of issues and unexpected behaviors when interacting with this mode, however the host options hopefully help offset some of the glaring problems! I would like to explore the possibility of making this mode more compatible with Squish+ in future updates!
+- [MarioHunt](https://mods.sm64coopdx.com/mods/mariohunt.8/): The main issue in MarioHunt around respawning while flat has been fixed, however I don't feel comfortable calling it compatible yet! Just make sure you have the Squish+ settings for auto restore enabled, and the option to Allow D-Pad usage to disabled for the best experience!
 
 ### ❌ Incompatible Mods

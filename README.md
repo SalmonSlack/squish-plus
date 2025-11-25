@@ -84,6 +84,33 @@ On the flipside, if the answer is `yes` to any of these questions, I would `not`
 If you're unsure if something qualifies as a bug or not, feel free to [submit a bug report](https://docs.google.com/forms/d/e/1FAIpQLScznpjr9QTrfvurq5ktppkQWYIKzjsfdZWjz0u9a9tsZkZtcQ/viewform?usp=header) anyway! I'd prefer an excess of reports as opposed to no reports at all! Lastly, thank you for taking the time to read this guide, and thank you in advance if you end up filing a bug report!
 <br/><br/>
 
+## 🧩 Mod Compatibility
+I'll add onto this list as I do more testing, but for now, assume any character mods and level packs are compatible, and any behavior altering mods `not` listed here are semi-incompatible or incompatible!
+
+### ✅ Compatible Mods
+- [Free Camera](https://mods.sm64coopdx.com/mods/freecamera.457/): I recommend adding this mod to your game in case you ever want to capture a specific angle you can't otherwise get with the vanilla camera!
+- [Noclip](https://mods.sm64coopdx.com/mods/noclip.30/)
+- [King's DevTools](https://mods.sm64coopdx.com/mods/kings-devtools.339/): Default button mappings use the D-Pad, which causes the actions from `Squish+` and `DevTools` to happen at the same time. (e.g. `D-Pad Down` squishes you AND opens the map select menu) This can be fixed by having the server host disable the `D-Pad Actions` mod option.
+
+### ⚠️ Semi-Compatible Mods
+- Arena (Comes built into Coop Deluxe): Lots of issues and unexpected behaviors when interacting with this mode, however the host options hopefully help offset some of the glaring problems! I would like to explore the possibility of making this mode more compatible with Squish+ in future updates!
+- [MarioHunt](https://mods.sm64coopdx.com/mods/mariohunt.8/): The main issue in MarioHunt around respawning while flat has been fixed, however I don't feel comfortable calling it compatible yet! Just make sure you have the Squish+ settings for auto restore enabled, and the option to Allow D-Pad usage to disabled for the best experience!
+
+### ❌ Incompatible Mods
+- Player Resizing Mods: Squish+ currently assumes the player's default scaling is 1 on the x, y, and z axes, so adjusting these base values will lead to unexpected behaviors.
+<br/><br/>
+
+## 🕑 Reverting
+If you find yourself wanting to return to an old version of the mod, you can follow these steps to get the old version back on your system!
+1. Navigate to `squish-plus.zip` [history page](https://github.com/SalmonSlack/squish-plus/commits/main/squish-plus.zip)
+2. Click on one of the titles, this should take you to a new page
+3. Click the three dots towards the right of the page, and click `View File`
+4. Enter `Ctrl-Shift-S` or click the three dots towards the right of the page and click `Download`
+5. Open SM64 Co-op Deluxe
+6. Drag the `squish-plus.zip` file directly into your game window
+7. This should automatically update your mod to the version you just downloaded!
+<br/><br/>
+
 ## ✨ What's New
 ### v1.08
 <sup>11/21/2025</sup>
@@ -207,27 +234,3 @@ And thank you for all the support around this mod! It's really been so much fun 
 ### v1.0 - (11/01/2025)
 - 🎊 Official Release! 🎊
 <br/><br/>
-
-## 🕑 Reverting
-If you find yourself wanting to return to an old version of the mod, you can follow these steps to get the old version back on your system!
-1. Navigate to `squish-plus.zip` [history page](https://github.com/SalmonSlack/squish-plus/commits/main/squish-plus.zip)
-2. Click on one of the titles, this should take you to a new page
-3. Click the three dots towards the right of the page, and click `View File`
-4. Enter `Ctrl-Shift-S` or click the three dots towards the right of the page and click `Download`
-5. Open SM64 Co-op Deluxe
-6. Drag the `squish-plus.zip` file directly into your game window
-7. This should automatically update your mod to the version you just downloaded!
-
-## 🧩 Mod Compatibility
-I'll add onto this list as I do more testing, but for now, assume any character mods and level packs are compatible, and any behavior altering mods `not` listed here are semi-incompatible or incompatible!
-
-### ✅ Compatible Mods
-- [Free Camera](https://mods.sm64coopdx.com/mods/freecamera.457/): I recommend adding this mod to your game in case you ever want to capture a specific angle you can't otherwise get with the vanilla camera!
-- [Noclip](https://mods.sm64coopdx.com/mods/noclip.30/)
-- [King's DevTools](https://mods.sm64coopdx.com/mods/kings-devtools.339/): Default button mappings use the D-Pad, which causes the actions from `Squish+` and `DevTools` to happen at the same time. (e.g. `D-Pad Down` squishes you AND opens the map select menu) This can be fixed by having the server host disable the `D-Pad Actions` mod option.
-
-### ⚠️ Semi-Compatible Mods
-- Arena (Comes built into Coop Deluxe): Lots of issues and unexpected behaviors when interacting with this mode, however the host options hopefully help offset some of the glaring problems! I would like to explore the possibility of making this mode more compatible with Squish+ in future updates!
-- [MarioHunt](https://mods.sm64coopdx.com/mods/mariohunt.8/): The main issue in MarioHunt around respawning while flat has been fixed, however I don't feel comfortable calling it compatible yet! Just make sure you have the Squish+ settings for auto restore enabled, and the option to Allow D-Pad usage to disabled for the best experience!
-
-### ❌ Incompatible Mods

@@ -7,8 +7,6 @@ If you are new to SM64 Co-op Deluxe, check out the [Setup Guide!](#-setup-guide-
 
 If you enjoyed using this mod or want to show support, sharing this or dropping me a comment on my socials to let me know what you think would mean a lot! I may expand on this mod or try and make mods like this for other games in the future if people like this one!
 
-Additionally, feel free to drop your ideas / suggestions in the [Suggestion Box](https://docs.google.com/forms/d/e/1FAIpQLSeuePsSO4BMknEjBYRGoRFhKumwEI3iSRrT0Q-Wg1yKnvOHGg/viewform?usp=header), and you might just see them show up on the [Trello Board](https://trello.com/b/89uM80j1/squish) for a future update!
-
 Finally, I want to end off this section with a big thanks to `YOU` for checking out this mod! SM64 holds a special place in my heart, and getting to share this with the wonderful community I've been a part of for so many years is a wonderful feeling!
 <br/><br/>
 
@@ -39,49 +37,6 @@ Once you verify the mod is working, I recommend setting `Interpolation` to `Fast
 - `Squish+ Mod Menu` - ✨ Modify Your Squishing Experience ✨ From the SM64 DX pause menu (Accessed with Pause -> Right-Bumper, Defaults are Spacebar -> Right Shift), you'll see a button labelled either `Squish+` or `Mod Menu`. Entering this menu will give you access to a bunch of customization options for the mod!
 
 Feel free to use additional mods in tandem with this one! However, I suggest sticking to level mods (such as the pre-installed Star Road mod), or [character mods](https://mods.sm64coopdx.com/mods/categories/custom-characters.4/) for the smoothest experience! I've only tested compatibility with a [small handful of behavior mods](#-compatible-mods).
-
-If you're able to consistently replicate a bug, don't hesitate to [fill out a bug report](https://docs.google.com/forms/d/e/1FAIpQLScznpjr9QTrfvurq5ktppkQWYIKzjsfdZWjz0u9a9tsZkZtcQ/viewform?usp=header) with reproduction steps, it helps me a lot! Just make sure to read the [bug reporting guide](#-bug-reporting-guide) first!
-<br/><br/>
-
-## 🐛 Bug Reporting Guide
-[Reporting bugs](https://docs.google.com/forms/d/e/1FAIpQLScznpjr9QTrfvurq5ktppkQWYIKzjsfdZWjz0u9a9tsZkZtcQ/viewform?usp=header) you come across helps me make this mod as enjoyable as possible! This guide exists to explain how best to go about reporting issues you find! Before you spend time filing a report, check out the [Trello Board](https://trello.com/b/89uM80j1/squish), as it's possible the bug is already in the process of being fixed!
-
-There's no 'correct' way to fill out a report, but including enough details for me to replicate the bug on my own computer is a good rule of thumb! Here are two examples of great bug reports:
-```
-When I throw a Chuckya while standing right up against a ledge, the game teleports me to the ground below and squishes me.
-
-Reproduction Steps:
-1. Go to Tall Tall Mountain
-2. Pick up the Chuckya
-3. Get as close to the ledge as you can
-4. Turn to face away from the ledge
-5. Throw the Chuckya
-```
-This report includes a helpful description of the issue and reproduction steps, making it a lot easier for me to reproduce the issue!  
-<br/>
-```
-I keep getting softlocked whenever I exit the boo level while squished. It happens every time I press 'exit level' while flat.
-```
-Keeping things short and sweet like this is completely fine as well! As long as there's enough information for me to attempt to replicate the bug, it's a great bug report!
-<br/>
-<br/>
-
-### What Qualifies as a Bug?
-I realize what does and does not qualify as a bug is very subjective, so I put together a few questions to help you decide if it's worth spending your time filing a report or not!
-
-If the answer is `yes` to any of these, I would consider it a bug!
-- Does the character behave in a way that doesn't make sense for the mod? (For example: Pressing the `Self Squish Button` button jumps you all the way to the **ceiling** instead of the **floor**)
-- Is there a de-sync between you and another player? (For example: Player 2 sees themselves squished to a Thwomp, but you see Player 2 squished to a completely different Thwomp)
-- Are you forced to use the `Hard Restore Button` to break out of a soft-lock? (For example: You are unable to exit a level while flat, and have to pop into shape using the `Hard Restore Button` before you're allowed to exit)
-- Is this an issue caused by how the player interacts with a piece of geometry? (For example: In the 'Star Road' mod, squishing yourself to the floating wooden platform on level 3 forces you to a 45 degree angle)
-<br/>
-
-On the flipside, if the answer is `yes` to any of these questions, I would `not` consider it a bug!
-- Is this issue related to button mappings between this mod and another mod? (For example: Pressing the `Hard Restore Button` also turns on `Invincibility` mode in the `DevTools` mod)
-- Is this an issue related to how a specific character's animations or model interact with the mod? (For example: The `Bowser` player model clips through the ground if squished during the ground pound animation)
-<br/>
-
-If you're unsure if something qualifies as a bug or not, feel free to [submit a bug report](https://docs.google.com/forms/d/e/1FAIpQLScznpjr9QTrfvurq5ktppkQWYIKzjsfdZWjz0u9a9tsZkZtcQ/viewform?usp=header) anyway! I'd prefer an excess of reports as opposed to no reports at all! Lastly, thank you for taking the time to read this guide, and thank you in advance if you end up filing a bug report!
 <br/><br/>
 
 ## 🧩 Mod Compatibility
@@ -112,25 +67,22 @@ If you find yourself wanting to return to an old version of the mod, you can fol
 <br/><br/>
 
 ## ✨ What's New
-### [v1.08.2](https://github.com/SalmonSlack/squish-plus/releases/tag/v1.08.2)
-<sup>11/29/2025</sup>
+### [v1.10](https://github.com/SalmonSlack/squish-plus/releases/tag/v1.08.2)
+<sup>05/20/2026</sup>
+
+It's been awhile! Thanks for the patience and I hope folks enjoy this new update! We got a lot of new stuff, and there are extra details about these new features in the [release page]() but for a TLDR, we have:
 
 ### Features
-- Added a toggle for enemies staying squished on defeat! Enemies will still play the flattening animation, however they will de-spawn at the end of the animation if `Enemies Stay Squished on Defeat` is set to `false`. The default value for this is `true`!
+- 🍃 **Fluttering** 🍃 Players can now flutter through the air like a piece of paper when restoring from a flattening!
+- 💬 **Deflated Alerts** 💬 Players can now see alert messages appear when they get defeated by a squishing hazard!
+- 🪨 **Custom Enemy Behaviors** 🪨 Players can experience whole new enemy behaviors with `Thwomps` and `Spindels`!
+
+A note on Koopa the Quick - Updating your `Character Select` version to `v1.16.3` will allow Koopa the Quick to squish players again. Just download `character-select-coop.zip` from the following page and drag the ZIP directly into your game window to update it: https://github.com/Squishy6094/character-select-coop/releases/tag/v1.16.3
 
 ### Adjustments
-- Players can no longer be squished during certain actions that would typically leave a player immune to damage. These actions include:
--- Being inside a cannon
--- Collecting a star
--- Teleporting
--- Entering Big Boo's Haunt
--- Going through doors
--- During certain dialogue states
-
-The goal of removing squishing during these interactions is to help prevent soft-locks and to prevent disrupting transitions from one room/world to another!
+- The Squish+ Mod Menu has returned and has one purpose: To direct players to the new menu! Sometimes folks find themselves checking for the mod menu via the Coop DX pause menu, and this button serves as a handy way to reach the new menu without any special commands / button presses!
  
 ### Bug Fixes
-- Fixed a bug where players could squish while inside a cannon, causing it to soft-lock
-- Fixed a bug where players could fall onto a star from a great height and get soft-locked
-- Fixed a bug where players stayed flat upon respawning after getting a game over
-
+- Players can now restore under water and above water without teleporting to the water's surface
+- `Faster Swimming` Mod is now compatible with Squish+, meaning no more getting squished for daring to swim too fast!
+- Fixed an issue where Spindels wouldn't spread the player when rolling a certain direction

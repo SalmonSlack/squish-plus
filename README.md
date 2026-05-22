@@ -68,7 +68,7 @@ If you find yourself wanting to return to an old version of the mod, you can fol
 
 ## ✨ What's New
 ### [v1.10](https://github.com/SalmonSlack/squish-plus/releases/tag/v1.1)
-<sup>05/20/2026</sup>
+<sup>05/22/2026</sup>
 
 It's been awhile! Thanks for the patience and I hope folks enjoy this new update! We got a lot of new stuff, and there are extra details about these new features in the [release page](https://github.com/SalmonSlack/squish-plus/releases/tag/v1.1) but for a TLDR, we have:
 
